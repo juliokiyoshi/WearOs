@@ -51,7 +51,7 @@ Referência:https://developer.android.com/training/wearables/overlays/layouts
 Referência:https://developer.android.com/training/wearables/overlays
 
 ### Navegação entre overlays:
-Recomendação do próprio Desenvolvedor(utilizar navegaçes entre Activities):
+Recomendação do próprio Desenvolvedor(utilizar navegações entre Activities):
 ```
 We strongly recommend you use this approach. It simplifies your code and an activity automatically supports swipe-to-dismiss. This also makes implementing ambient mode simpler.
 ```
