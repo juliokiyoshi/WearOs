@@ -55,7 +55,7 @@ Recomendação do próprio Desenvolvedor(utilizar navegações entre Activities)
 ```
 We strongly recommend you use this approach. It simplifies your code and an activity automatically supports swipe-to-dismiss. This also makes implementing ambient mode simpler.
 ```
-Pode ser feito da seguinte maneira, utilizando uma Intent para fazer a mudança de overlay:
+A navegação pode ser feito da seguinte maneira, utilizando uma Intent para fazer a mudança de overlay:
 ```
    binding.btnStart.setOnClickListener {
             val switchActivityIntent = Intent(this, Activity_secundary::class.java)
