@@ -72,7 +72,8 @@ https://developer.android.com/training/wearables/data-layer/messages
 
 https://developer.android.com/training/wearables/data-layer/events#Listen
 
-
+## Repositorio com Vários exemplos de Projetos do Wear:
+link: https://github.com/android/wear-os-samples
 
 
 
